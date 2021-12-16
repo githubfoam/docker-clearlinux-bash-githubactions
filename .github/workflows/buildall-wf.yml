@@ -1,4 +1,4 @@
-name: "matrix build all CI workflow"
+name: "matrix build all dockerfiles CI workflow"
 
 
 on:
